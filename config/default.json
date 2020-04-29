@@ -2,5 +2,5 @@
   "appSecret": "af7c685dd0a5b9541b33da7f7333e8a7",
   "pageAccessToken": "EAAEflej6OlQBAOPUAd9ZCwgtheM93Dc7Ub279wcZATti53qK8FtlRY7cBW8tYPkC3cGAO71mvEZCMfiNm5n1zcZCPcxNvmccizIP3P4XqRCwZBW8SUcZBM3ut1XPR22tIdiwd5Ktlb33BnZB7MzUeeEQhyfvuN2okc5u3S3nTOoHAZDZD",
   "validationToken": "try",
-  "serverURL": "https://chatibot.herokuapp.com/webhook"
+  "serverURL": "https://chatibot.herokuapp.com"
 }
